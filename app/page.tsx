@@ -1,6 +1,7 @@
 import CreatePostForm from '@/components/CreatePostForm'
 import PostsList from '@/components/PostsList'
 import ApiDocs from '@/components/ApiDocs'
+import BlogMain from '@/components/BlogMain'
 
 export default function Home() {
   return (
@@ -19,13 +20,7 @@ export default function Home() {
 
         {/* Main Content */}
         <main className="max-w-4xl mx-auto">
-          <CreatePostForm onPostCreated={() => {
-            // This will trigger a refresh of the posts list
-            window.location.reload()
-          }} />
-          
-          <PostsList />
-          
+          <BlogMain />
           <div className="mt-12">
             <ApiDocs />
           </div>
@@ -39,3 +34,4 @@ export default function Home() {
     </div>
   )
 }
+ 

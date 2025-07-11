@@ -52,3 +52,4 @@ console.log('1. Run "npm run dev" to start the development server')
 console.log('2. Open http://localhost:3000 to view the application')
 console.log('3. Run "npm run db:studio" to open Prisma Studio')
 console.log('\nHappy coding! 🚀') 
+ 

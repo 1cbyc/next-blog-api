@@ -136,3 +136,4 @@ export default function PostCard({ post, onDelete, onUpdate }: PostCardProps) {
     </div>
   )
 } 
+ 

@@ -9,7 +9,11 @@ export const metadata: Metadata = {
   description: 'A modern REST API for blog management built with Next.js, Prisma, and TypeScript. Create, read, update, and delete blog posts with a beautiful interface.',
   keywords: ['blog', 'api', 'nextjs', 'prisma', 'typescript', 'rest'],
   authors: [{ name: 'Your Name' }],
-  viewport: 'width=device-width, initial-scale=1',
+}
+
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
 }
 
 export default function RootLayout({
@@ -23,3 +27,4 @@ export default function RootLayout({
     </html>
   )
 }
+ 

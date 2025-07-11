@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    appDir: true,
+    // appDir: true, // Removed - no longer needed in Next.js 14+
   },
   images: {
     domains: [],
@@ -15,3 +15,4 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
+ 

@@ -108,3 +108,4 @@ export default function CreatePostForm({ onPostCreated }: CreatePostFormProps) {
     </div>
   )
 } 
+ 
