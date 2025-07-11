@@ -13,5 +13,6 @@ export default function BlogMain() {
       <PostsList key={refreshKey} />
     </>
   )
-} 
+}
+// Updated for better commit message 
  

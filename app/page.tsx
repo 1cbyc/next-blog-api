@@ -33,5 +33,6 @@ export default function Home() {
       </div>
     </div>
   )
-}
+} 
+// Updated for better commit message 
  

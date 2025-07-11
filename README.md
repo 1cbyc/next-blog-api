@@ -237,7 +237,7 @@ The application can be deployed to any platform that supports Next.js:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -249,4 +249,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This project is currently under development. The README will be updated as the project evolves. 
+// Updated for better commit message 
  
