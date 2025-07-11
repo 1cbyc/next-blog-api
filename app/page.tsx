@@ -34,5 +34,4 @@ export default function Home() {
     </div>
   )
 } 
-// Updated for better commit message 
  

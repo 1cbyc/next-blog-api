@@ -15,5 +15,4 @@ const nextConfig = {
 }
 
 module.exports = nextConfig
-// Updated for better commit message
  

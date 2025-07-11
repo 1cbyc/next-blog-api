@@ -14,5 +14,4 @@ export default function BlogMain() {
     </>
   )
 }
-// Updated for better commit message 
  

@@ -2,7 +2,7 @@
 
 (asked ai to check my project and write this readme for me)
 
-A modern, full-stack REST API for blog management built with Next.js 14, Prisma, TypeScript, and Tailwind CSS. This project demonstrates best practices for building scalable APIs with proper error handling, validation, and a beautiful user interface.
+REST API for blog management I built with Next.js, Prisma, and TypeScript. It's to Create, read, update, and delete blog posts with a beautiful interface.
 
 ## 🚀 Features
 
@@ -249,5 +249,4 @@ This project is licensed under the MIT License.
 ---
 
 **Note**: This project is currently under development. The README will be updated as the project evolves. 
-// Updated for better commit message 
  
