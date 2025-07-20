@@ -35,7 +35,7 @@ REST API for blog management I built with Next.js, Prisma, and TypeScript. It's 
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/1cbyc/next-blog-api.git
 cd blog-api
 ```
 
@@ -129,7 +129,7 @@ curl -X PUT http://localhost:3000/api/posts/[id] \
 curl -X DELETE http://localhost:3000/api/posts/[id]
 ```
 
-## 🏗️ Project Structure
+<!-- ## 🏗️ Project Structure
 
 ```
 blog-api/
@@ -155,7 +155,7 @@ blog-api/
 ├── prisma/               # Database schema
 │   └── schema.prisma     # Prisma schema
 └── [config files]        # Configuration files
-```
+``` -->
 
 ## 🔧 Available Scripts
 
