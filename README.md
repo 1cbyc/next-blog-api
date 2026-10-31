@@ -1,3 +1,5 @@
+> **Licensing update (31 October 2026):** The current policy requires prior written permission for reuse and a separate agreement for AI training. See [LICENSE](LICENSE). Earlier grants remain valid for previously licensed material; [LICENSE.previous](LICENSE.previous) preserves those terms. Any older license descriptions below describe the previous policy. Contact [ei@nsisong.com](mailto:ei@nsisong.com).
+
 # NextJS Blog API
 
 (asked ai to check my project and write this readme for me)
@@ -248,5 +250,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Note**: This project is currently under development. The README will be updated as the project evolves. 
- 
+**Note**: This project is currently under development. The README will be updated as the project evolves.
